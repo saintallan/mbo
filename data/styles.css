@@ -56,11 +56,15 @@
 ._文本段落 {
   text-align:left;
 }
+.table_cell {
+}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
 }
 ._流程形状 {
+}
+._连接线 {
 }
 textarea, select, input, button { outline: none; }
